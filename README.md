@@ -17,16 +17,16 @@ I'm an AI engineer who takes models from research to production. I work across t
 
 ### 🧠 What I do
 
-**Generative AI & LLM applications**
+**Generative AI & LLM applications**<br>
 Building products on top of large language models: prompt and tool design, agents that call business systems through the Model Context Protocol (MCP), conversational memory, and knowledge-grounded assistants (RAG).
 
-**Machine Learning**
+**Machine Learning**<br>
 The full classical ML workflow: data cleaning, feature engineering, model selection and evaluation with gradient boosting, random forests and linear models, always measured against a clear baseline.
 
-**Deep Learning & research**
+**Deep Learning & research**<br>
 Implementing architectures from first principles (Transformers, VAEs), fine-tuning self-supervised models, and analysing what models learn. Reading the literature and turning papers into working code.
 
-**AI engineering & deployment**
+**AI engineering & deployment**<br>
 Turning models into services: Python microservices with FastAPI, async workers, databases and caching, containerised with Docker and built to be maintained by a team.
 
 ### ⚙️ How I work
